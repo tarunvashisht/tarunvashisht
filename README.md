@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tarunvashisht
 - 👀 I’m interested in ...Data World
 - 🌱 I’m currently learning ...Machine Learning
-- 💞️ I’m looking to collaborate on ...Data Engineering and machine Learning Enthusiast
+- 💞️ I’m looking to collaborate on ...Data Engineering and machine Learning
 - 📫 How to reach me ...vashisht_tarun@iclould.com    
 
 <!---
